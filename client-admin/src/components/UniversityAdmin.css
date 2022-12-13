@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+}
+
+.card {
+  border: double;
+  margin: 1%;
+  width: 45%;
+}
+
+.heading {
+  text-align: center;
+}
+
+.buttons {
+  margin-top: 3%;
+  text-align: center;
+}
+
+.buttons Button {
+  margin-right: 10%;
+}

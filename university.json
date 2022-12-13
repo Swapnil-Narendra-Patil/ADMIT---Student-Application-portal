@@ -1,0 +1,688 @@
+{
+    "name": "MIT",
+    "location": "Boston, MA",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference."
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day."
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 40,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is an MIT-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science."
+      }
+    ],
+    "description": "The MIT community is driven by a shared purpose: to make a better world through education, research, and innovation. We are fun and quirky, elite but not elitist, inventive and artistic, obsessed with numbers, and welcoming to talented people regardless of where they come from. Founded to accelerate the nation’s industrial revolution, MIT is profoundly American. With ingenuity and drive, our graduates have invented fundamental technologies, launched new industries, and created millions of American jobs. At the same time, and without the slightest sense of contradiction, MIT is profoundly global. Our community gains tremendous strength as a magnet for talent from around the world. Through teaching, research, and innovation, MIT’s exceptional community pursues its mission of service to the nation and the world. EECSeecs.mit.edu researchers have developed a device that can control light at unprecedented speeds. This spatial light modulator could be used to create super-fast lidar sensors for self-driving cars, or brain scanners capable of generating higher-resolution images.",
+    "images": [
+      "mit0.jpeg",
+      "mit1.jpeg",
+      "mit2.jpeg"
+    ]
+}
+
+{
+    "name": "Stanford University",
+    "location": "Stanford, CA",
+    "programs": [
+      {
+        "courseName": "Chemical Engineering",
+        "credits": 45,
+        "specialization": [
+          "Soft Matter Kinetics",
+          "Fluid Dynamics",
+          "Biochemical Engineering"
+        ],
+        "description": "This is a terminal degree program for those who want to gain advanced knowledge in a focused area of chemical engineering to pursue a career in industry or a professional degree such as medicine, law, education or business.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 40,
+        "specialization": [
+          "Cloud Computing",
+          "Machine Learning",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Mechanical Engineering",
+        "credits": 42,
+        "specialization": [
+          "Energy Systems",
+          "Fluid Dynamics",
+          "Heat Transfer"
+        ],
+        "description": "At the graduate level, the Mechanical Engineering program aligns academic course work with research to prepare scholars in specialized areas within the field. Through course work and guided research, the program prepares students to make original contributions in Mechanical Engineering and related fields.",
+      }
+    ],
+    "description": "Stanford University is a place of discovery, creativity and innovation located in the San Francisco Bay Area on the ancestral land of the Muwekma Ohlone Tribe. It is one of the world's leading research and teaching institutions. Catalyzing discovery, accelerating solutions, sustaining life on Earth.",
+    "images": [
+      "stanford0.jpg",
+      "stanford1.jpg",
+      "stanford2.jpg"
+    ],
+    "__v": 0
+  }
+
+  {
+    "name": "Harvard University",
+    "location": "Cambridge, MA",
+    "programs": [
+      {
+        "courseName": "Electrical Engineering",
+        "credits": 35,
+        "specialization": [
+          "Signals and Systems Theory",
+          "Robotics",
+          "Energy Systems"
+        ],
+        "description": "Electrical engineers at Harvard are pursuing work on diamond nanofabrication; quantum devices; integrated circuits for cellular biotechnology; millimeter-scale robots; hardware for machine learning; the optimization of smart power grids and other networked systems; disentangling brain signals and mapping brain circuits; and the fundamental limits of private information sharing.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 32,
+        "specialization": [
+          "AI & ML",
+          "Privacy and Security",
+          "Data Management Systems",
+          "Robotics",
+          "Computer Graphics"
+        ],
+        "description": "Computer Science is an area of study within the Harvard John A. Paulson School of Engineering and Applied Sciences. The Graduate School of Arts and Sciences at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) offers PhD and master’s degrees in a wide range of disciplines that lie at the interfaces of engineering, the applied sciences (from biology to physics), and technology.",
+      },
+      {
+        "courseName": "Applied Physics",
+        "credits": 33,
+        "specialization": [
+          "Photonics",
+          "Quantum Science",
+          "Soft Matter Physics"
+        ],
+        "description": "Harvard School of Engineering offers a Doctor of Philosophy (Ph.D) degree in Applied Physics, conferred through the Graduate School of Arts and Sciences. Applied Physics at Harvard School of Engineering is at the intersection of physics and engineering. Applied physicists explore the phenomena that become the foundation of quantum and photonic devices and novel materials.",
+      }
+    ],
+    "description": "Harvard University is a private Ivy League research university in Cambridge, Massachusetts. Harvard University is devoted to excellence in teaching, learning, and research, and to developing leaders who make a difference globally.",
+    "images": [
+      "harvard0.jpg",
+      "harvard1.jpg",
+      "harvard2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "Northeastern University",
+    "location": "Boston, MA",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 40,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "Our Master’s in Data Science program will provide you a comprehensive foundation in the skills and theory of data science, as well as the tools and experience to translate data into clear, innovative, and strategic insights.",
+      }
+    ],
+    "description": "Founded in 1898, Northeastern is a global, experiential, research university built on a tradition of engagement with the world, creating a distinctive culture. Northeastern features a cooperative education program, more commonly known as co-op that integrates classroom study with professional experience and includes over 3,100 partners across all seven continents.[11] The program has been a key part of Northeastern's curriculum of experiential learning for more than a hundred years and is one of the largest co-op/internship programs in the world.",
+    "images": [
+      "neu0.jpg",
+      "neu1.jpg",
+      "neu2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "NYU",
+    "location": "New York, NY",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 33,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 36,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is an NYU-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "New York University (NYU) is a private research university in New York City. Chartered in 1831 by the New York State Legislature,[14] NYU was founded by a group of New Yorkers led by then-Secretary of the Treasury Albert Gallatin.",
+    "images": [
+      "nyu0.jpg",
+      "nyu1.jpg",
+      "nyu2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "Columbia University",
+    "location": "New York City, NY",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 40,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a Columbia-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "Columbia University (also known as Columbia, and officially as Columbia University in the City of New York) is a private Ivy League research university in New York City. Established in 1754 as King's College on the grounds of Trinity Church in Manhattan, Columbia is the oldest institution of higher education in New York and the fifth-oldest institution of higher learning in the United States.",
+    "images": [
+      "columbia0.jpg",
+      "columbia1.jpg",
+      "columbia2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "UC Berkeley",
+    "location": "Berkeley, CA",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 33,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 35,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 36,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a Berkeley-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "The University of California, Berkeley (UC Berkeley, Berkeley, Cal, or California)[14][15] is a public land-grant research university in Berkeley, California. Established in 1868 as the University of California, it is the state's first land-grant university and the founding campus of the University of California system.",
+    "images": [
+      "ucb0.jpg",
+      "ucb1.jpg",
+      "ucb2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "Carnegie Mellon University",
+    "location": "Pittsburgh, PA",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 45,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 44,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 42,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a CMU-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "Carnegie Mellon is known for its advances in research and creating new fields of study, notably being home to many firsts in computer science (including the first computer science, machine learning, and robotics departments), pioneering the field of management science,[14] and being home to the first drama program in the United States. CMU is classified among R1: Doctoral Universities – Very High Research Activity.",
+    "images": [
+      "cmu0.jpg",
+      "cmu1.jpg",
+      "cmu2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "University of Pennsylvania",
+    "location": "Philadelphia, PA",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 35,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 34,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 32,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a UPenn-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "The University of Pennsylvania is a private Ivy League research university in Philadelphia. It is the fourth-oldest institution of higher education in the United States and is ranked among the highest-regarded universities by numerous organizations and scholars.",
+    "images": [
+      "upenn0.jpg",
+      "upenn1.jpg",
+      "upenn2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "Cornell University",
+    "location": "Ithaca, NY",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 45,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 44,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 36,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a Cornell-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "Cornell is a privately endowed research university and a partner of the State University of New York. As the federal land-grant institution in New York State, we have a responsibility—unique within the Ivy League—to make contributions in all fields of knowledge in a manner that prioritizes public engagement to help improve the quality of life in our state, the nation, the world.",
+    "images": [
+      "cornell0.jpg",
+      "cornell1.jpg",
+      "cornell2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "University of Washington, Seattle",
+    "location": "Seattle, WA",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 40,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 36,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a UWash-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "The University of Washington is a public research university in Seattle, Washington. Founded in 1861, Washington is one of the oldest universities on the West Coast; it was established in Seattle approximately a decade after the city's founding.",
+    "images": [
+      "uwash0.jpg",
+      "uwash1.jpg",
+      "uwash2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "Arizona State University",
+    "location": "Tempe, AZ",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 33,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 33,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 36,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a ASU-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "ASU’s nationally ranked programs inspire the top-qualified graduates and have positioned the university as a “top-tier” recruiting and hiring institution by more than 50 of the country’s top corporations, according to professional recruiters and rankings services around the world.",
+    "images": [
+      "asu0.jpg",
+      "asu1.jpg",
+      "asu2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "The University of Texas at Austin",
+    "location": "Austin, TX",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 33,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 34,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a UTA-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "The University of Texas at Austin is a bold, ambitious leader supporting some 52,000 diverse students, 3,000 teaching faculty, and top national programs across 18 colleges and schools. As Texas’ leading research university, UT attracts more than $650 million annually for discovery. Amid the backdrop of Austin, Texas, a city recognized for its creative and entrepreneurial spirit, the university provides a place to explore countless opportunities for tomorrow’s artists, scientists, athletes, doctors, entrepreneurs and engineers.",
+    "images": [
+      "uta0.jpg",
+      "uta1.jpg",
+      "uta2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "Duke University",
+    "location": "Durham, NC",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 30,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 33,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 32,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a Duke-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "Duke is ranked among the top universities in the United States and in the world by major publications. The undergraduate admissions are among the most selective in the country, with an overall acceptance rate of 6.2% for the class of 2026.[15] Duke spends more than $1 billion per year on research, making it one of the ten largest research universities in the United States.",
+    "images": [
+      "duke0.jpg",
+      "duke1.jpg",
+      "duke2.jpg"
+    ],
+    "__v": 0
+}
+
+{
+    "name": "Georgia Institute of Technology",
+    "location": "Atlanta, GA",
+    "programs": [
+      {
+        "courseName": "Information Systems",
+        "credits": 32,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science"
+        ],
+        "description": "This broad research theme covered activities across all aspects of systems that process information, and the underlying science and mathematics, and includes communications, networking & information theory; numerical and computational simulation and prototyping; signal processing and inference; medical imaging; data science, statistics and inference.",
+      },
+      {
+        "courseName": "Computer Science",
+        "credits": 33,
+        "specialization": [
+          "User experience engineering",
+          "Data Analytics",
+          "Data Science",
+          "Cybersecurity",
+          "Hardware"
+        ],
+        "description": "Computer science deals with the theory and practice of algorithms, from idealized mathematical procedures to the computer systems deployed by major tech companies to answer billions of user requests per day.",
+      },
+      {
+        "courseName": "Data Science",
+        "credits": 30,
+        "specialization": [
+          "Machine learning",
+          "Deep learning",
+          "Reinforcement learning"
+        ],
+        "description": "The Statistics and Data Science Center is a GATech-wide focal point for advancing research and education programs related to statistics and data science. The Center was created in 2015 with the goal of formalizing and consolidating efforts in statistics at MIT. The Center’s academic mission is to host and develop new academic programs, from a minor to a PhD in statistics and data science.",
+      }
+    ],
+    "description": "The Georgia Institute of Technology is one of the nation's top public research universities with nearly 40,000 students who study in person at the main campus in Atlanta, at Georgia Tech-Lorraine in France, at Georgia Tech-Shenzhen in China, as well as through distance and online learning. Tech's engineering and computing Colleges are the largest and among the highest-ranked in the nation. The Institute also offers outstanding programs in business, design, liberal arts, and sciences.",
+    "images": [
+      "gatech0.jpg",
+      "gatech1.jpg",
+      "gatech2.jpg"
+    ],
+    "__v": 0
+}

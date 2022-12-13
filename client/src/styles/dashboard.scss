@@ -1,0 +1,51 @@
+.cardsList {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    overflow: scroll;
+    margin: 10px;
+    padding: 20px;
+
+    .shortlistIcon {
+        width: 40px;
+        height: 40px;
+        margin: 10px;
+        font-size: 25px;
+    }
+
+    .UniCard {
+        width: 18rem;
+        height: 440px;
+        padding: 10px;
+        margin: 10px;
+    }
+
+    .card-img{
+        height: 200px;
+    }
+
+    .pStyle {
+        font-size: xx-large;
+    }
+}
+
+.card-text {
+    max-height: 100px;
+    overflow: scroll;
+}
+
+
+
+
+.dashboardTile {
+    // make tile minimum height of 250px
+    min-height: 250px;
+    // display center vertically & horizontally
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    //make border
+    border: 1px solid #ccc;
+    //make border radius
+    border-radius: 25px;
+}
